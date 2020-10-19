@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1602416523 source:c:\programmes-c\workspace-igit-1-20\mylibrary\pile.c
+	"pile.h"
+	"commons.h"
+
+1602277262 c:\programmes-c\workspace-igit-1-20\mylibrary\pile.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1602338199 c:\programmes-c\workspace-igit-1-20\mylibrary\commons.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pile.h"
+
+1602261788 source:c:\programmes-c\workspace-igit-1-20\etu_16-tpratique-11.1\main.c
+	"../myLibrary/pile.h"
+
+1602278782 source:c:\programmes-c\workspace-igit-1-20\mylibrary\commons.c
+	"commons.h"
+	"pile.h"
+
